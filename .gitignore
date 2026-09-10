@@ -1,0 +1,14 @@
+node_modules/
+dist/
+*.tsbuildinfo
+*.log
+.env
+.env.*
+!.env.example
+public/images/*-480.webp
+public/images/*-960.webp
+public/images/*-1920.webp
+public/favicon.png
+screenshots/
+release/
+.DS_Store

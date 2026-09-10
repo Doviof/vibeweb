@@ -1,0 +1,30 @@
+{
+  "name": "still-notes",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "images": "node scripts/prepare-images.mjs",
+    "build": "npm run images && tsc -b && vite build",
+    "preview": "vite preview --host 0.0.0.0",
+    "test": "node --test tests/*.test.mjs",
+    "format": "prettier --write src scripts tests *.json *.ts index.html"
+  },
+  "dependencies": {
+    "@fontsource/courier-prime": "^5.2.5",
+    "lucide-react": "^0.468.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-router-dom": "^7.1.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "@vitejs/plugin-react": "^4.3.4",
+    "prettier": "^3.9.6",
+    "sharp": "^0.35.4",
+    "typescript": "~5.7.2",
+    "vite": "^6.1.0"
+  }
+}

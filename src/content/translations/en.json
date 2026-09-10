@@ -1,0 +1,92 @@
+{
+  "site": {
+    "name": "EN ROUTE",
+    "tagline": "Everyday life, distant places, and moments I don't want to forget.",
+    "about": [
+      "Sometimes I press the shutter not because the view is extraordinary, but because the light, a sound, or a feeling is worth keeping.",
+      "This is a collection of roads I've taken, and ordinary days close to home. There is no hurry to arrive, or to find meaning in every photograph.",
+      "When I return to these pictures someday, I hope I'll still remember the breeze."
+    ]
+  },
+  "categories": { "远行": "Travel", "散步": "Walks", "日常": "Everyday" },
+  "entries": {
+    "a-quiet-morning": {
+      "title": "Still morning, beyond the mountains",
+      "place": "By the lake",
+      "alt": "Mountains reflected in a still lake, with a small wooden cabin on the shore",
+      "body": [
+        "I woke early and walked along the water. The mountains were still reflected perfectly in the lake.",
+        "With no next stop in mind, I stayed a little longer."
+      ]
+    },
+    "into-the-green": {
+      "title": "A little lighter on my feet",
+      "place": "In the woods",
+      "alt": "Sunlight passing through a green forest, lighting the tree trunks and a woodland path",
+      "body": [
+        "The air grew cooler as soon as I stepped into the shade.",
+        "I didn't take many photographs along the way. This one was taken when I stopped to listen to the wind."
+      ]
+    },
+    "after-the-tide": {
+      "title": "An afternoon of doing nothing",
+      "place": "By the sea",
+      "alt": "Blue-green waves stretching into the distance, where sea and sky meet at the horizon",
+      "body": [
+        "The tide came in, again and again, then slowly drew back.",
+        "Only when the shadows grew long did I notice how much time had passed."
+      ]
+    },
+    "a-path-without-a-name": {
+      "title": "A path without a name",
+      "place": "Out of town",
+      "alt": "A clear river running through tall trees, with mountain peaks visible in the distance",
+      "body": [
+        "On a whim, I changed direction and turned onto an unfamiliar path.",
+        "There was no destination. Wherever I ended up would do."
+      ]
+    },
+    "the-long-way-home": {
+      "title": "The longer way home",
+      "place": "In the mountains",
+      "alt": "Layered mountains rising above a green valley that stretches into the distance",
+      "body": [
+        "I'd been rushing on the way there. On the way back, I decided to slow down.",
+        "Some views, it turns out, are just beyond the turn you almost passed."
+      ]
+    },
+    "before-the-city-wakes": {
+      "title": "A little further, after dark",
+      "place": "A street corner",
+      "alt": "A city street at night, with headlights and illuminated windows between tall buildings",
+      "body": [
+        "After dinner, I didn't go straight home. I walked a little further along the lit-up streets.",
+        "The same road feels like two different places by day and by night."
+      ]
+    }
+  },
+  "notes": {
+    "august-note": {
+      "title": "Leave some space, too",
+      "body": [
+        "While sorting through photographs, I realized my favorites aren't always the sharpest ones.",
+        "Sometimes it's just a blurred figure or an unlit window. Perhaps memories don't need to be so clear."
+      ]
+    },
+    "a-small-list": {
+      "title": "Small things, lately",
+      "body": [
+        "Moved the desk by the window. Finished a book I'd left unread for ages. Went for an evening walk without headphones.",
+        "Nothing much has happened. That's good, too."
+      ]
+    },
+    "july-rain": {
+      "title": "After the rain",
+      "body": [
+        "After several days of rain, there was finally a little sunshine today.",
+        "It brought back that afternoon I spent walking in the woods."
+      ],
+      "alt": "Sunlight passing through a green forest"
+    }
+  }
+}

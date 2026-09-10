@@ -1,0 +1,137 @@
+{
+  "site": {
+    "name": "EN ROUTE",
+    "englishName": "A PERSONAL JOURNAL",
+    "tagline": "日常、远行，和一些不想忘记的片刻。",
+    "email": "",
+    "demo": true,
+    "about": [
+      "有些时候，按下快门并不是因为眼前有什么特别的风景。只是那一刻的光、声音，或者心情，值得被留下。",
+      "这里收集走过的路，也收集没有走远的日常。不急着抵达，也不急着为每一张照片找到意义。",
+      "等以后再回来看，希望还记得当时的风。"
+    ]
+  },
+  "entries": [
+    {
+      "id": "a-quiet-morning",
+      "title": "山的另一边，还是清晨",
+      "date": "2026-08-24",
+      "place": "湖畔",
+      "category": "远行",
+      "image": "images/lake.jpg",
+      "alt": "平静的湖面倒映群山，岸边有一座小木屋",
+      "body": [
+        "早上醒得很早。沿着水边走了一会儿，山的影子还完整地留在湖里。",
+        "没有安排下一站，就在这里多坐了一会儿。"
+      ],
+      "sourceImage": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e",
+      "featured": true
+    },
+    {
+      "id": "into-the-green",
+      "title": "把脚步放轻一点",
+      "date": "2026-08-16",
+      "place": "林间",
+      "category": "散步",
+      "image": "images/forest.jpg",
+      "alt": "阳光穿过绿色森林，照亮树干与林间小路",
+      "body": [
+        "走到树荫里，温度一下就降了下来。",
+        "一路上没有拍很多照片。这一张，是停下来听风的时候留下的。"
+      ],
+      "sourceImage": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e",
+      "featured": true
+    },
+    {
+      "id": "after-the-tide",
+      "title": "什么也不做的下午",
+      "date": "2026-07-30",
+      "place": "海边",
+      "category": "远行",
+      "image": "images/sea.jpg",
+      "alt": "蓝绿色海浪层层铺向远方，天空与海面在地平线交汇",
+      "body": [
+        "潮水一次次漫上来，又慢慢退回去。",
+        "直到影子变长，才想起来已经过了很久。"
+      ],
+      "sourceImage": "https://images.unsplash.com/photo-1518837695005-2083093ee35b",
+      "featured": true
+    },
+    {
+      "id": "a-path-without-a-name",
+      "title": "走一条没有名字的小路",
+      "date": "2026-07-12",
+      "place": "近郊",
+      "category": "散步",
+      "image": "images/woods.jpg",
+      "alt": "清澈的河水穿过高大的树林，远处山峰隐约可见",
+      "body": [
+        "临时改变方向，拐进一条不认识的小路。",
+        "没有什么目的地，走到哪里都算。"
+      ],
+      "sourceImage": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8",
+      "featured": true
+    },
+    {
+      "id": "the-long-way-home",
+      "title": "回去的时候，绕了一点路",
+      "date": "2026-06-21",
+      "place": "山间",
+      "category": "远行",
+      "image": "images/mountain.jpg",
+      "alt": "群山在远处层层展开，绿色山谷向远方延伸",
+      "body": [
+        "来的时候一直在赶路，回去的时候决定慢一点。",
+        "原来有些风景，就在刚刚错过的转弯后面。"
+      ],
+      "sourceImage": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b",
+      "featured": true
+    },
+    {
+      "id": "before-the-city-wakes",
+      "title": "天黑以后，再走一小段",
+      "date": "2026-06-02",
+      "place": "街角",
+      "category": "日常",
+      "image": "images/street.jpg",
+      "alt": "夜幕下的城市街道，高楼间亮起灯光与车灯",
+      "body": [
+        "吃完晚饭，没有马上回去。沿着亮灯的街道又走了一小段。",
+        "同一条路，白天和夜晚像是两个地方。"
+      ],
+      "sourceImage": "https://images.unsplash.com/photo-1519501025264-65ba15a82390",
+      "featured": true
+    }
+  ],
+  "notes": [
+    {
+      "id": "august-note",
+      "date": "2026-08-25",
+      "title": "把空白也留着",
+      "body": [
+        "整理照片时发现，最喜欢的并不总是拍得最清楚的那张。",
+        "有时候只是一个模糊的背影、一扇没开灯的窗。也许记忆本来就不需要那么清晰。"
+      ]
+    },
+    {
+      "id": "a-small-list",
+      "date": "2026-08-08",
+      "title": "最近的小事",
+      "body": [
+        "把桌子挪到了窗边。读完一本放了很久的书。傍晚出去走路，没有戴耳机。",
+        "没有什么大事发生，也很好。"
+      ]
+    },
+    {
+      "id": "july-rain",
+      "date": "2026-07-18",
+      "title": "雨停以后",
+      "body": [
+        "连续下了几天雨，今天终于有了一小段阳光。",
+        "想起之前在林子里走过的那个下午。"
+      ],
+      "image": "images/forest.jpg",
+      "alt": "阳光穿过绿色森林"
+    }
+  ]
+}
